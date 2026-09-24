@@ -13,7 +13,6 @@ void main()
     {
         printf("Soy el proceso hijo \n");
         printf("El nombre del alumno es Eliseo de Armas Peña\n");
-        pid_hijo=getpid();
     }
 
     else

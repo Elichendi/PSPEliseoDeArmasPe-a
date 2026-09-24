@@ -14,7 +14,6 @@ void main()
         printf("Soy el proceso hijo \n");
         printf("Mi PID es: %d\n",getpid());
         printf("El PID de mi padre es: %d\n",getppid());
-        pid_hijo=getpid();
     }
 
     else

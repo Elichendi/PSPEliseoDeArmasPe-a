@@ -11,7 +11,6 @@ void main()
     {
         printf("Soy el hijo 1\n");
         sleep(3);
-        exit(0);
     }
     else
     {
@@ -20,7 +19,6 @@ void main()
         {
             printf("Soy el hijo 2\n");
             sleep(1);
-            exit(0);
         }
         else
         {

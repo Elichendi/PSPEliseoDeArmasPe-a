@@ -37,7 +37,6 @@ int main()
             }
         }
         while (strcmp(buffer, "+") != 0);
-        exit(0);
     }
     else
     {

@@ -8,7 +8,6 @@ int main()
 {
     int fd[2];
     int num1, num2, recibido1, recibido2;
-    char buffer[30], buffer2[30];
     time_t t;
     pid_t pid;
     pipe(fd);
